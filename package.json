@@ -1,7 +1,7 @@
 {
   "name": "jk-felib",
-  "version": "1.1.8",
-  "description": "nothing.",
+  "version": "1.1.9",
+  "description": "该类库用于链接FEApi接口，需要Vue运行环境支持。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "https://github.com/kami1983/jk-feapi.git"
   },
   "keywords": [
-    "felib"
+    "felib,vue"
   ],
   "author": "kami",
   "license": "ISC",
